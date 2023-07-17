@@ -1,0 +1,36 @@
+* {
+    font-family: Whitney, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    color: #282c3f;
+}
+
+.form-control:focus{
+box-shadow: none;
+background-color: white;
+}
+.login{
+    margin: auto;
+  width: 400px;
+  height: 600px;
+  margin-top: 30px;
+  border: 1px solid rgb(229, 226, 226);
+  padding: 10px;
+  background-color: white;
+}
+.offer{
+    width: 100%;
+    
+}
+h3{
+    margin-top: 60px;
+}
+
+.btn1{
+    margin-top: 10px;
+    border: none;
+    padding: 10px 8px;
+    color: white;
+    background-color: rgb(250, 97, 120);
+}
